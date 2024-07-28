@@ -1,4 +1,4 @@
-##Introduction##
+# Development setup
 This repository contains the implementation of Federated Learning for vision models. 
 
 Federated Learning is a decentralized machine learning approach where models are trained collaboratively across multiple devices while keeping data localized. This ensures privacy and security of data while leveraging the computational power of edge devices.
